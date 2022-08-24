@@ -8,7 +8,6 @@
 
 # Requirements
 - Brain 
-- Download & put the hcaptcha.py file inside the project folder, check my hcaptcha bypass repo for the file
 - httpx https://pypi.org/project/httpx/
 - Rotating Proxies
 
