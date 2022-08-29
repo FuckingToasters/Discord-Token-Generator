@@ -7,7 +7,6 @@
 - Accounts created are unlocked!
 
 # Requirements
-- Brain 
 - httpx https://pypi.org/project/httpx/
 - Rotating Proxies
 
