@@ -1,4 +1,0 @@
-colorama
-futures
-httpx
-websocket-client
